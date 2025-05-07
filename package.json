@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mattermost/mattermost-push-proxy#readme",
   "dependencies": {
-    "redoc-cli": "^0.9.9",
+    "redoc-cli": "^0.9.12",
     "swagger-cli": "^4.0.4"
   }
 }
